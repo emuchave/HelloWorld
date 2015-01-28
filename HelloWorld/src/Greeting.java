@@ -9,6 +9,7 @@ public class Greeting {
 		
 		System.out.println(new Date().getTime());
 		System.out.println("Second change");
+		System.out.println("Second change");
 
 	}
 	
